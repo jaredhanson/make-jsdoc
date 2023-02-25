@@ -1,0 +1,32 @@
+{
+  "name": "make-jsdoc",
+  "version": "0.0.0",
+  "description": "Make targets for generating documentation using JSDoc.",
+  "keywords": [
+    "make",
+    "jsdoc"
+  ],
+  "author": {
+    "name": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "https://www.jaredhanson.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/make-jsdoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaredhanson/make-jsdoc/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/jaredhanson"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
