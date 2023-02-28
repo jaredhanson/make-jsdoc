@@ -1,0 +1,7 @@
+Makefile
+
+# Node.js
+*.tgz
+
+# GitHub
+.github/
